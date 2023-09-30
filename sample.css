@@ -1,0 +1,22 @@
+p{
+    font-size: xx-large;
+    font-style: italic;
+    border: 10px solid ;
+    text-decoration:  blue;
+    border-color: aqua;
+    width: 400px;
+    height: 500px;
+    overflow-y: scroll;
+    overflow-x: scroll;
+
+}
+img{
+    border: 10px solid ;
+    width: 400px;
+    height: 500px;
+    overflow: auto;
+    overflow-y: auto;
+    overflow-x: auto;
+
+
+}
