@@ -1,13 +1,5 @@
-body{
+p{
 
-
-    background-color: silver;
-
-}
-
-h1{
-
-    color: aqua;
-    font-style: italic;
+    text-align: justify;
 
 }
