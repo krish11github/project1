@@ -24,8 +24,31 @@ p{
 img{
 
     border: 10px solid ;
+    
     width: 400px;
     height: 500px;
     overflow: auto;
+
+}
+
+
+button{
+
+    font-size: xx-large;
+    width: 800px;
+    height: 200px;
+    border-radius: 100%;
+    background-image: url(/image/olav-tvedt-6lSBynPRaAQ-unsplash.jpg);
+
+}
+
+input{
+    background-color: aquamarine;
+    height: 50px;
+    width: 200px;
+    border-radius: 100%;
+    border-color: white;
+    border-style: unset;
+    corn
 
 }
