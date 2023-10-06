@@ -6,6 +6,7 @@ p{
     text-decoration:  blue;
     border-color: aqua;
     width: 600px;
+    text-indent: 60px;
     height: 550px;
     overflow-y: scroll;
     border-style: double;
@@ -13,18 +14,18 @@ p{
     border-top-color: rgb(252, 5, 5);
     border-left-color: rgb(236, 136, 136);
     border-bottom-color: rgb(127, 153, 255);
-    border-right-color: aquamarine;
+    border-right-color: rgb(122, 237, 198);
     border-top-right-radius: 2%;
     border-bottom-right-radius: 2%;
     background-image: url(image/3622644.jpg);
     background-position:  top;
+    /* text-shadow: 10px aquamarine; */
 
 }
 
 img{
 
-    border: 10px solid ;
-    
+    border: 10px solid ;    
     width: 400px;
     height: 500px;
     overflow: auto;
