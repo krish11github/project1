@@ -1,0 +1,48 @@
+*{
+   
+    margin: auto;
+
+}
+
+video{
+
+    border-radius: 3%;
+
+}
+
+#img2{
+
+    border-radius: 2%;
+
+}
+
+#button1 {
+
+    margin-top: 20px;
+
+}
+
+p{
+
+    text-indent: 15%;
+    text-align: justify;
+
+}
+
+ul {
+
+    text-align: justify;
+
+}
+
+h2 + h4 {
+
+    text-align: justify;
+
+}
+
+.i {
+
+    border-radius: 5%;
+
+}
