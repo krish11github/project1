@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: rgba(255, 255, 255, 0.754);
+    font-family: "Audiowide", sans-serif;
+}
+
+.menu li:hover .submenu{
+    display: block;
+}
+
+.menu {
+    text-align: center;
+}
+
+.menu li{
+    padding-left: 50px;
+    margin-top: 18px;
+    display: inline-block;
+}
+
+.submenu{
+    display: none;
+    position: absolute;
+    background-color: black;
+}
+
+
+.submenu li {
+    display: block;
+}
+
+.main {
+    height: 50px;
+    width: 100%;
+    background-color: black;
+    
+}
+
+a {
+    text-decoration: none;
+}
+
+#img1 {
+    height: 100%;
+    width: 100%;
+}
+
+marquee {
+    color: black;
+    background-color: aqua;
+}
